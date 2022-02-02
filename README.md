@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         OMEGLE IP GRABBER
 // @version      1
-// @author       Aentix
+// @author       dclightningtv
 // @match        https://www.omegle.com/*
 // @icon         https://www.google.com/s2/favicons?domain=omegle.com
 // @grant        none
